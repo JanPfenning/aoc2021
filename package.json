@@ -1,0 +1,9 @@
+{
+  "name": "AdventOfCode",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^18.11.10",
+    "regression": "^2.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
